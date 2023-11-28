@@ -1,7 +1,9 @@
 https://learn.sas.com/course/view.php?id=118
 SAS studio
-Ctrl + / to add comments.
+Ctrl + /slash to add comments.
+F3 to run code.
 F4 to open a new program window.
+Hold control key to select the variables and drag to code.
 
 *create a library for storing data
 libname pg1 "S:/workshop/EPG1V2/data";
